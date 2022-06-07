@@ -16,6 +16,9 @@
     - Has some performance improvements, but class are 'stronger';
     - Uses computed variables;
 ### Stacks:
-    - VStack: vertical stack (y-axis)
-    - HStack: horizontal stack (x-axis)
-    - ZStack: Z-axis "on top" stack (z-axis)
+    - VStack:
+        - vertical stack (y-axis);
+    - HStack:
+        - horizontal stack (x-axis);
+    - ZStack:
+        - Z-axis "on top" stack (z-axis);
