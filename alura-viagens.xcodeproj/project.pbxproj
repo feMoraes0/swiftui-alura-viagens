@@ -12,6 +12,7 @@
 		0052465E284FB0CD0088A158 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0052465D284FB0CD0088A158 /* Assets.xcassets */; };
 		00524661284FB0CD0088A158 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00524660284FB0CD0088A158 /* Preview Assets.xcassets */; };
 		00524668284FB3DB0088A158 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 00524667284FB3DB0088A158 /* .gitignore */; };
+		0052466A284FB5670088A158 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 00524669284FB5670088A158 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		0052465D284FB0CD0088A158 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00524660284FB0CD0088A158 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		00524667284FB3DB0088A158 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		00524669284FB5670088A158 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +39,7 @@
 		0052464D284FB0CA0088A158 = {
 			isa = PBXGroup;
 			children = (
+				00524669284FB5670088A158 /* README.md */,
 				00524667284FB3DB0088A158 /* .gitignore */,
 				00524658284FB0CA0088A158 /* alura-viagens */,
 				00524657284FB0CA0088A158 /* Products */,
@@ -130,6 +133,7 @@
 			files = (
 				00524661284FB0CD0088A158 /* Preview Assets.xcassets in Resources */,
 				00524668284FB3DB0088A158 /* .gitignore in Resources */,
+				0052466A284FB5670088A158 /* README.md in Resources */,
 				0052465E284FB0CD0088A158 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
