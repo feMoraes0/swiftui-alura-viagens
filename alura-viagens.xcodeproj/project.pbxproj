@@ -13,6 +13,9 @@
 		00524661284FB0CD0088A158 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00524660284FB0CD0088A158 /* Preview Assets.xcassets */; };
 		00524668284FB3DB0088A158 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 00524667284FB3DB0088A158 /* .gitignore */; };
 		0052466A284FB5670088A158 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 00524669284FB5670088A158 /* README.md */; };
+		006A9ADF28514B7600DD1E64 /* viagens.json in Resources */ = {isa = PBXBuildFile; fileRef = 006A9ADE28514B7600DD1E64 /* viagens.json */; };
+		006A9AE128514B8300DD1E64 /* imagens in Resources */ = {isa = PBXBuildFile; fileRef = 006A9AE028514B8300DD1E64 /* imagens */; };
+		006A9AE328514B8800DD1E64 /* Models in Resources */ = {isa = PBXBuildFile; fileRef = 006A9AE228514B8800DD1E64 /* Models */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +26,9 @@
 		00524660284FB0CD0088A158 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		00524667284FB3DB0088A158 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		00524669284FB5670088A158 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		006A9ADE28514B7600DD1E64 /* viagens.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = viagens.json; sourceTree = "<group>"; };
+		006A9AE028514B8300DD1E64 /* imagens */ = {isa = PBXFileReference; lastKnownFileType = folder; path = imagens; sourceTree = "<group>"; };
+		006A9AE228514B8800DD1E64 /* Models */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Models; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 		00524658284FB0CA0088A158 /* alura-viagens */ = {
 			isa = PBXGroup;
 			children = (
+				006A9AE228514B8800DD1E64 /* Models */,
+				006A9AE028514B8300DD1E64 /* imagens */,
+				006A9ADE28514B7600DD1E64 /* viagens.json */,
 				00524659284FB0CA0088A158 /* alura_viagensApp.swift */,
 				0052465B284FB0CA0088A158 /* ContentView.swift */,
 				0052465D284FB0CD0088A158 /* Assets.xcassets */,
@@ -131,9 +140,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				006A9ADF28514B7600DD1E64 /* viagens.json in Resources */,
 				00524661284FB0CD0088A158 /* Preview Assets.xcassets in Resources */,
 				00524668284FB3DB0088A158 /* .gitignore in Resources */,
+				006A9AE128514B8300DD1E64 /* imagens in Resources */,
 				0052466A284FB5670088A158 /* README.md in Resources */,
+				006A9AE328514B8800DD1E64 /* Models in Resources */,
 				0052465E284FB0CD0088A158 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
