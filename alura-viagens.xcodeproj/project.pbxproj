@@ -22,6 +22,7 @@
 		00BB4CF0285291E6007CF62A /* img3.png in Resources */ = {isa = PBXBuildFile; fileRef = 00BB4CEB285291E6007CF62A /* img3.png */; };
 		00BB4CF1285291E6007CF62A /* img4.png in Resources */ = {isa = PBXBuildFile; fileRef = 00BB4CEC285291E6007CF62A /* img4.png */; };
 		00BB4CF52852956C007CF62A /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BB4CF42852956C007CF62A /* HeaderView.swift */; };
+		00BB4CF72852968F007CF62A /* CelulaViagemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BB4CF62852968F007CF62A /* CelulaViagemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		00BB4CEB285291E6007CF62A /* img3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img3.png; sourceTree = "<group>"; };
 		00BB4CEC285291E6007CF62A /* img4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img4.png; sourceTree = "<group>"; };
 		00BB4CF42852956C007CF62A /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		00BB4CF62852968F007CF62A /* CelulaViagemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CelulaViagemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 			isa = PBXGroup;
 			children = (
 				00BB4CF42852956C007CF62A /* HeaderView.swift */,
+				00BB4CF62852968F007CF62A /* CelulaViagemView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				0052465C284FB0CA0088A158 /* ContentView.swift in Sources */,
 				00BB4CE4285291BB007CF62A /* Dados.swift in Sources */,
 				0052465A284FB0CA0088A158 /* alura_viagensApp.swift in Sources */,
+				00BB4CF72852968F007CF62A /* CelulaViagemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
