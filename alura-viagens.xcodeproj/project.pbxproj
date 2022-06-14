@@ -83,7 +83,6 @@
 				00BB4CF328529548007CF62A /* Views */,
 				00BB4CF2285291ED007CF62A /* images */,
 				00524659284FB0CA0088A158 /* alura_viagensApp.swift */,
-				0052465B284FB0CA0088A158 /* ContentView.swift */,
 				00BB4CE6285291D9007CF62A /* viagens.json */,
 				0052465D284FB0CD0088A158 /* Assets.xcassets */,
 				0052465F284FB0CD0088A158 /* Preview Content */,
@@ -123,6 +122,7 @@
 		00BB4CF328529548007CF62A /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				0052465B284FB0CA0088A158 /* ContentView.swift */,
 				00BB4CF42852956C007CF62A /* HeaderView.swift */,
 				00BB4CF62852968F007CF62A /* CelulaViagemView.swift */,
 				0045012328580E1100A4C295 /* MapaView.swift */,
