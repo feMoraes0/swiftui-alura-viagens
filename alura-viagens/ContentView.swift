@@ -18,7 +18,7 @@ struct ContentView: View {
         GeometryReader { view in
             VStack {
                 HeaderView()
-                    .frame(width: view.size.width, height: self.isHorizontalSizeCompact() ? 200 : 315, alignment: .top)
+                    .frame(width: view.size.width, height: self.isHorizontalSizeCompact() ? 220 : 315, alignment: .top)
                 List(viagens) { viagem in
                     CelulaViagemView(viagem: viagem)
                 }

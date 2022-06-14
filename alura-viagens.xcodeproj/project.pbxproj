@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0045012428580E1100A4C295 /* MapaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0045012328580E1100A4C295 /* MapaView.swift */; };
 		0052465A284FB0CA0088A158 /* alura_viagensApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00524659284FB0CA0088A158 /* alura_viagensApp.swift */; };
 		0052465C284FB0CA0088A158 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0052465B284FB0CA0088A158 /* ContentView.swift */; };
 		0052465E284FB0CD0088A158 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0052465D284FB0CD0088A158 /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0045012328580E1100A4C295 /* MapaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapaView.swift; sourceTree = "<group>"; };
 		00524656284FB0CA0088A158 /* alura-viagens.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "alura-viagens.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00524659284FB0CA0088A158 /* alura_viagensApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alura_viagensApp.swift; sourceTree = "<group>"; };
 		0052465B284FB0CA0088A158 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 			children = (
 				00BB4CF42852956C007CF62A /* HeaderView.swift */,
 				00BB4CF62852968F007CF62A /* CelulaViagemView.swift */,
+				0045012328580E1100A4C295 /* MapaView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00BB4CF52852956C007CF62A /* HeaderView.swift in Sources */,
+				0045012428580E1100A4C295 /* MapaView.swift in Sources */,
 				00BB4CE5285291BB007CF62A /* Viagem.swift in Sources */,
 				0052465C284FB0CA0088A158 /* ContentView.swift in Sources */,
 				00BB4CE4285291BB007CF62A /* Dados.swift in Sources */,
